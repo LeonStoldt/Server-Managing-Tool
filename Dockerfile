@@ -6,8 +6,8 @@ RUN mkdir /app
 WORKDIR /app
 
 # clone content
-RUN apt-get update \
-     apt-get install -y git
+RUN apt-get update
+RUN apt-get install -y git
 RUN git clone https://github.com/LeonStoldt/Server-Managing-Tool.git .
 
 # add `/app/node_modules/.bin` to $PATH
