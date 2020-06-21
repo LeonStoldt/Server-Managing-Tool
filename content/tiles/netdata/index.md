@@ -1,5 +1,5 @@
 ---
-path: ":19999"
+path: "/netdata"
 cover: "./netdata.jpg"
 title: "Netdata"
 ---

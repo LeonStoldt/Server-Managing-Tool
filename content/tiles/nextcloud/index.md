@@ -1,5 +1,5 @@
 ---
-path: ":8080"
+path: "/nextcloud"
 cover: "./nextcloud.png"
 title: "Nextcloud"
 ---

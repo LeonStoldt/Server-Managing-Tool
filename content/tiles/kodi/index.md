@@ -1,5 +1,5 @@
 ---
-path: ":8000"
+path: "/kodi"
 cover: "./kodi.jpg"
 title: "Kodi"
 ---

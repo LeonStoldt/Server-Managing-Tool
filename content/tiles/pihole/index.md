@@ -1,5 +1,5 @@
 ---
-path: ":3050/admin"
+path: "/pihole"
 cover: "./pi-hole.png"
 title: "Pi Hole"
 ---
